@@ -59,7 +59,7 @@ public class CalculadoraMaster {
                 comprobar = true;
                 switch (operacion) {
                     case "+":
-                        res = n1 + n2;
+                        res = n1+ n2;
                         break;
                     case "-":
                         res = n1 - n2;
